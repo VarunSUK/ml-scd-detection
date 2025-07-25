@@ -52,7 +52,30 @@ This project leverages Convolutional Neural Networks (CNNs) and transfer learnin
    - Confusion matrix and ROC curve
    - Grad-CAM for model interpretability (optional)
 
+
+## 🏥 Research Relevance
+
+This project was developed in support of **clinical screening and health equity research** at **Michigan Medicine**, with the aim of building tools that assist early diagnosis of genetic conditions like **Sickle Cell Disease**, especially in **resource-limited settings**.
+
 ---
 
-## 📁 Project Structure
+## 📌 Future Work
+
+- Integrate **Grad-CAM** visualizations for model interpretability
+- Build a **Streamlit web app** for clinical demonstration
+- Extend to multi-class classification (SCD severity or comorbidities)
+
+---
+
+## 📜 License
+
+MIT License or per dataset restrictions (include if applicable)
+
+---
+
+## 🙌 Acknowledgments
+
+- Kaggle dataset providers
+- Michigan Medicine research collaborators
+
 
